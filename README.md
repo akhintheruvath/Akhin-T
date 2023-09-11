@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhintheruvath
+- 🌱 I’m a MERN stack web developer
 - 👀 I’m interested in web development and software technologies
-- 🌱 I’m currently learning MERN stack development
 - 📫 Reach me at akhintheruvath2827@gmail.com
 
 <!---
